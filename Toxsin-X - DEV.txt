@@ -1,0 +1,58 @@
+"gamemode"
+{
+	"base"		"base"
+	"title"		"Toxsin X DEV Build"
+	"maps"		"^rd_"
+	"menusystem"	"1"
+	"settings"
+	{
+		1
+		{
+			"name"		"sv_toxsinx_max_zombies"
+			"text"		"Max NPCs:"
+			"help"		"Controls the amount of zombies that can be on screen. (def 30)"
+			"type"		"Numeric"
+			"default"	"30"
+		}
+		2
+		{
+			"name"		"sv_toxsinx_zombies_per_player"
+			"text"		"Zombies per player:"
+			"help"		"Number of NPCs to spawn each wave per player."
+			"type"		"Numeric"
+			"default"	"15"
+		}
+		3
+		{
+			"name"		"sv_toxsinx_start_percent"
+			"text"		"Percent required:"
+			"help"		"Required ready percentage to start."
+			"type"		"Numeric"
+			"default"	"66"
+		}
+		4
+		{
+			"name"		"sv_toxsinx_team_dmg"
+			"text"		"Team damage:"
+			"help"		"Friendly fire."
+			"type"		"CheckBox"
+			"default"	"0"
+		}
+		5
+		{
+			"name"		"sv_toxsinx_dmg_scale"
+			"text"		"Damage scale:"
+			"help"		"Bullet damage scale."
+			"type"		"Numeric"
+			"default"	"1.0"
+		}
+		6
+		{
+			"name"		"sv_toxsinx_post_game_time"
+			"text"		"Post Game Time:"
+			"help"		"Amount of time before next map loads."
+			"type"		"Numeric"
+			"default"	"45"
+		}
+	}
+}

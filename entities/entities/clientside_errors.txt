@@ -1,0 +1,48 @@
+Paraboy|2|STEAM_0:0:19923827
+
+[ERROR] gamemodes/toxsin-x/gamemode/vgui/vgui_classscout.lua:30: bad argument #1 to 'KeyValuesToTable' (string expected, got no value)
+  1. KeyValuesToTable - [C]:-1
+   2. Init - gamemodes/toxsin-x/gamemode/vgui/vgui_classscout.lua:30
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:153
+     4. Init - gamemodes/toxsin-x/gamemode/vgui/vgui_classpicker.lua:15
+      5. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:153
+       6. unknown - gamemodes/toxsin-x/gamemode/vgui/vgui_helpmenu.lua:60
+
+
+
+King David™|5|STEAM_0:0:13757046
+
+[ERROR] gamemodes/toxsin-x/gamemode/vgui/vgui_classscout.lua:30: bad argument #1 to 'KeyValuesToTable' (string expected, got no value)
+  1. KeyValuesToTable - [C]:-1
+   2. Init - gamemodes/toxsin-x/gamemode/vgui/vgui_classscout.lua:30
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:153
+     4. Init - gamemodes/toxsin-x/gamemode/vgui/vgui_classpicker.lua:15
+      5. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:153
+       6. unknown - gamemodes/toxsin-x/gamemode/vgui/vgui_helpmenu.lua:60
+
+
+
+Paraboy|2|STEAM_0:0:19923827
+
+[ERROR] gamemodes/toxsin-x/gamemode/vgui/vgui_classscout.lua:30: bad argument #1 to 'KeyValuesToTable' (string expected, got no value)
+  1. KeyValuesToTable - [C]:-1
+   2. Init - gamemodes/toxsin-x/gamemode/vgui/vgui_classscout.lua:30
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:153
+     4. Init - gamemodes/toxsin-x/gamemode/vgui/vgui_classpicker.lua:15
+      5. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:153
+       6. unknown - gamemodes/toxsin-x/gamemode/vgui/vgui_helpmenu.lua:60
+
+
+
+King David™|3|STEAM_0:0:13757046
+
+[ERROR] gamemodes/toxsin-x/gamemode/vgui/vgui_classscout.lua:30: bad argument #1 to 'KeyValuesToTable' (string expected, got no value)
+  1. KeyValuesToTable - [C]:-1
+   2. Init - gamemodes/toxsin-x/gamemode/vgui/vgui_classscout.lua:30
+    3. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:153
+     4. Init - gamemodes/toxsin-x/gamemode/vgui/vgui_classpicker.lua:15
+      5. Create - lua/includes/extensions/client/panel/scriptedpanels.lua:153
+       6. unknown - gamemodes/toxsin-x/gamemode/vgui/vgui_helpmenu.lua:60
+
+
+
